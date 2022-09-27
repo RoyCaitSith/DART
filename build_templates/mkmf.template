@@ -106,8 +106,8 @@
 #
 # IF YOU HAVE MORE CURRENT COMPILER INFORMATION, PLEASE SHARE IT WITH US.
 
-MPIFC = mpiifort
-MPILD = mpiifort
+MPIFC = mpif90
+MPILD = mpif90
 FC = ifort
 LD = ifort
 
